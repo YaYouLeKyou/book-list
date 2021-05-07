@@ -1,0 +1,64 @@
+/* classe dynamiques */
+
+.succes,
+.error {
+  text-align: center;
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  background: green;
+}
+.error {
+  background: red;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  display: block;
+  width: 100px;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+input {
+  display: block;
+  width: 60%;
+  height: 30px;
+  margin: 0 auto;
+}
+
+.input {
+  margin: 40px 40px;
+}
+
+#submit {
+  background: rgb(3, 3, 88);
+  color: white;
+  width: 200px;
+  padding: 20px 20px;
+  line-height: 0px;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+/* tableau */
+
+table {
+  width: 100%;
+  margin: auto;
+}
+
+th {
+  width: 33%;
+}
+
+td {
+  text-align: center;
+}
